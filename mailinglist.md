@@ -93,7 +93,7 @@ button:hover {
 }
 
 </style>
-  <form id="mailingListForm" method="post" action="https://vsf-worker.virtualscienceforum.workers.dev" style="border:1px solid #ccc" onsubmit="submitMailingListSignupForm(event);">
+  <form id="mailingListForm" method="post" action="https://vsf-worker.virtualscienceforum.workers.dev/maillinglist" style="border:1px solid #ccc" onsubmit="submitMailingListSignupForm(event);">
   <div class="container">
     <h1>Sign Up</h1>
     <p>Please fill in this form and select the mailing lists you would like to join.</p>
